@@ -1,0 +1,16 @@
+body { 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    padding: 20px; 
+}
+
+canvas { 
+    min-width: 50vw; 
+    margin: 5vh auto; 
+}
+
+.accordion { 
+    max-width: 50vw; 
+    margin: 0 auto; 
+    text-align: left; 
+}
